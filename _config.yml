@@ -1,12 +1,14 @@
 title: Chuchen (Leo) Xiong # your name (or website title) here
 logo: "/images/Photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  UMN MSc in Business Analytics
   <br><br>
-  Second description 
+  Think Big, Act Bigger
   <br><br>
   <a href="mailto:xion2022@umn.edu">Email</a>
+  <br><br>
   <a href="https://www.linkedin.com/in/chuchen-leo-xiong/">LinkedIn</a>
+  <br><br>
   <a href="https://github.com/Xion6cc">Github</a> 
   
 theme: jekyll-theme-minimal
