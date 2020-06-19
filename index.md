@@ -1,5 +1,6 @@
 # Project Portfolio
 ---
+
 ## Data Science
 
 ### Real Time Fraud Dectection using AWS
@@ -11,6 +12,9 @@ Anomaly detection is a technique used to identify rare items, events, or observa
 
 <center><img src="images/AWS_Handout.jpg" width="600" height="400"/></center>
 
+
+---
+
 ### Soccer Analytics using Association Rules
 *Association Rules, Exploratory Data Analysis*
 
@@ -19,6 +23,9 @@ Anomaly detection is a technique used to identify rare items, events, or observa
 This analysis helps the Liverpool to perform better and find patterns that tangibly contribute the clubs success using historical data. I tried to explore the win probability from the betting odd and avoid losing in high probability win matches. Further, I understood what factor-like home v away, player stats and stage a˙ect our lose or draw in high probability win matches. Finally, I suggest improvement in the lineup i.e. in terms of defense, midfield and forwards for Liverpool F.C. for these high probability games.
 
 <center><img src="images/Soccer Analytics.jpg" width="600" height="400"/></center>
+
+
+---
 
 ### Home Credit Default Risk Prediction
 *LightGBM, XGboost, Random Forest, Stacking, Feature Selection (PCA, correlation, feature importance)*
