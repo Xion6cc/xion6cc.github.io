@@ -12,13 +12,20 @@ Anomaly detection is a technique used to identify rare items, events, or observa
 <center><img src="images/AWS_Handout.jpg" width="600" height="400"/></center>
 
 ### Soccer Analytics using Association Rules
-
+*Association Rules, Exploratory Data Analysis*
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/Soccer-Analytics)
 
 This analysis helps the Liverpool to perform better and find patterns that tangibly contribute the clubs success using historical data. I tried to explore the win probability from the betting odd and avoid losing in high probability win matches. Further, I understood what factor-like home v away, player stats and stage a˙ect our lose or draw in high probability win matches. Finally, I suggest improvement in the lineup i.e. in terms of defense, midfield and forwards for Liverpool F.C. for these high probability games.
 
 <center><img src="images/Soccer Analytics.jpg" width="600" height="400"/></center>
 
+### Home Credit Default Risk Prediction
+*LightGBM, XGboost, Random Forest, Stacking, Feature Selection (PCA, correlation, feature importance)*
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/Home-Credit-Default-Risk)
+
+Currently, Home Credit relies on applicants’ external credit history with statistical and machine learning methods to drive lending decisions. While existing model proves to be effective, Home Credit wants to further discover hidden traits in their data to unlock its full potential. With the combination of each consumer’s Credit Bureau and previous Home Credit application data, I conducted Logistic Regression, Random Forest, XGBoost and LightGBM to help the company develop an enhanced prediction model that would lead to more concise and intelligence conclusions. With the implementation of our prediction model, Home Credit can further expand financial inclusion for the unbanked population and create a win-win situation for both parties.
+
+<center><img src="images/Home Credit.jpg" width="600" height="400"/></center>
 
 ## Visualization
 
