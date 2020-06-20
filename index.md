@@ -55,7 +55,7 @@ Here is a causal inference project via Econometrics. A Portuguese banking instit
 
 The Last Dance is a sports documentary series about Michael Jordan produced by ESPN and Netflix. The series mainly focuses on Michael Jordan's last season with Bulls (1997-1998) and take down the process of Chicago Bulls' third consecutive championship. Contracts dispute, trading rumors, players' aging, bad relationship of general manager Jerry Krause and coach Phil Jackson. These factors became a dark cloud for the Bulls' third consecutive championship... It is also the reason why Phil called it 'The Last Dance'. This dashboard walks you through the data behind 1997-1998 Chicago Bulls to elaborate Michael Jordan's tough journey to the championship. 
 
-<center><img src="images/Repeated Marketing.jpg" width="600" height="300"/></center>
+<center><img src="images/The Last Dance.jpg" width="600" height="300"/></center>
 
 ---
 
