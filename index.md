@@ -47,6 +47,8 @@ Here is a causal inference project via Econometrics. A Portuguese banking instit
 
 <center><img src="images/Repeated Marketing.jpg" width="600" height="300"/></center>
 
+---
+
 ## Visualization
 
 ### Data behind 'The Last Dance'
