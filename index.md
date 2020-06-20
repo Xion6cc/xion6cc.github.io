@@ -35,6 +35,18 @@ Currently, Home Credit relies on applicants’ external credit history with stat
 
 <center><img src="images/Home Credit.jpg" width="600" height="400"/></center>
 
+
+---
+
+### Impact of Repeated Marketing
+*Causal Inference, Matching (PSM), Treatment Effect, Exploratory Data Analysis*
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/The-Impact-of-Repeated-Marketing)
+
+Here is a causal inference project via Econometrics. A Portuguese banking institution conducts a direct marketing campaign using phone calls to promote subscription to a term deposit at their institution. Often reminding people about availability of such services and its providers is important to drive sales. As each incremental phone call costs them time and money, while not placing the promotional phone call to prospective clients might cause them to lose out on that customer. Hence, they need to identify the right amount of phone calls per prospective client to drive subscription to term deposit. To aid with the above effort, I will run an analysis to detect the effect (positive/negative) of making over 2 phone calls compared to making just one or two phone calls.
+
+<center><img src="images/Repeated Marketing.jpg" width="600" height="400"/></center>
+
 ## Visualization
 
 ---
