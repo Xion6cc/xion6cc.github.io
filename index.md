@@ -40,6 +40,8 @@ Currently, Home Credit relies on applicants’ external credit history with stat
 ### Customer Segmentation for Airlines
 *Clustering, RFM Model, Churn Analysis, Customer Segmentation*
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/Airlines-Customer-Segmentation)
+
 Hired by the analytics team of a leading Midwest Airlines, our motivation is to better understand their customers and address the challenges they face using historical data, to elevate customer experience and generate higher revenue. Specifically, our team are going to develop a clear and robust picture of different segments of client's customers. We are interested in understanding if our Rewards programs are beneficially and how we can better exploit its benefits as a customer and airlines. To address the question, we do cluster analysis on the Non-menberships’ data, which contains lots of useful information like total amount one person contribute, flight frequency, the number of average days one person book their flights in advance, booking channel, etc. In this way, we could furthermore explore which segment of Non-menberships customer is more suitable for converting into menbership customer.
 
 
