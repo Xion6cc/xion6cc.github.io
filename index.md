@@ -1,6 +1,6 @@
 # Intro
 
-Hi, I am Chuchen Xiong, a graduate student pursuing a data science career. In the gap year after my college, I was interested in using data to explore the unknown, tell a story, and make an impact when I was an intern in China Merchant Bank and Accenture Strategy. In the UMN MSBA program, I built a database, gathered open-source data, performed analysis, and gave presentations when I worked with real clients including Mall of America, a leading entertainment company, and a governmental organization. Driven by curiosity and empathy, I look forward to using my analytics skills to make an impact.
+Hi, I am Chuchen Xiong. I obtained my Master of Science in Business Analytics from the Carlson School of Management, University of Minnesota. In the gap year after my college, I was interested in using data to explore the unknown, tell a story, and make an impact when I was an intern in China Merchant Bank and Accenture Strategy. In the UMN MSBA program, I built a database, gathered open-source data, performed analysis, and gave presentations when I worked with real clients including Mall of America, a leading entertainment company, and a governmental organization. Driven by curiosity and empathy, I look forward to using my analytics skills to make an impact.
 
 ---
 
