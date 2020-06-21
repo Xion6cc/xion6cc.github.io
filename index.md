@@ -35,7 +35,7 @@ This analysis helps the Liverpool to perform better and find patterns that tangi
 ### Home Credit Default Risk Prediction
 *LightGBM, XGboost, Random Forest, Stacking, Feature Selection (PCA, correlation, feature importance)*
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/Home-Credit-Default-Risk)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/Home-Credit-Default-Risk) [![View on GitHub](https://img.shields.io/badge/Slides-View_on_Slides-green)](https://github.com/Xion6cc/xion6cc.github.io/blob/master/PDF/Home%20Credit.pdf)
 
 Currently, Home Credit relies on applicants’ external credit history with statistical and machine learning methods to drive lending decisions. While existing model proves to be effective, Home Credit wants to further discover hidden traits in their data to unlock its full potential. With the combination of each consumer’s Credit Bureau and previous Home Credit application data, I conducted Logistic Regression, Random Forest, XGBoost and LightGBM to help the company develop an enhanced prediction model that would lead to more concise and intelligence conclusions. With the implementation of our prediction model, Home Credit can further expand financial inclusion for the unbanked population and create a win-win situation for both parties.
 
