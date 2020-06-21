@@ -66,6 +66,17 @@ Here is a causal inference project via Econometrics. A Portuguese banking instit
 
 ---
 
+### NYC Housing Investment Anlaysis
+*Time Series Forecasting, Data Manipulation*
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Xion6cc/NYC-Housing-Investment-Anlaysis)
+
+We are consulting for a real estate company that has a niche in purchasing properties to rent out short-term as part of their business model specifically within New York City. The real estate company has engaged our firm to build out a data product and provide us with conclusions to help them understand which zip codes would generate the most profit on short term rentals within New York City. Here I used Breakeven Period Year and property count as two metrics to evaluate each property. Finally, several zip code areas are recommended according to the client's company size, return period, and cashflow.
+
+<center><img src="images/NYC.jpg" width="600" height="300"/></center>
+
+---
+
 ### Coffee Shop Sales Exploration
 *Retention Analysis, Promotion Plan*
 
