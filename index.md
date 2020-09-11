@@ -100,4 +100,14 @@ The Last Dance is a sports documentary series about Michael Jordan produced by E
 
 ---
 
+### Store Order Analysis
+
+[![View on Tableau](https://img.shields.io/badge/Tableau-View_on_Tableau-yellow?logo=Tableau)](https://public.tableau.com/profile/chuchen.xiong#!/vizhome/SuperstoreOrderAnalysis_15995186844540/Dashboard1)
+
+Using Tableau Superstore data, I created a dashboard to show the number of order by month and predicted future orders. Number of orders by states, ship status, and segment can easily help stakeholders understand what happened and make a decision based on the data.
+
+<center><img src="images/The Last Dance.jpg" width="600" height="300"/></center>
+
+---
+
 <center>© 2020 Chuchen Xiong. Powered by Jekyll and the Minimal Theme.</center>
