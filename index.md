@@ -106,7 +106,7 @@ The Last Dance is a sports documentary series about Michael Jordan produced by E
 
 Using Tableau Superstore data, I created a dashboard to show the number of order by month and predicted future orders. Number of orders by states, ship status, and segment can easily help stakeholders understand what happened and make a decision based on the data.
 
-<center><img src="images/The Last Dance.jpg" width="600" height="300"/></center>
+<center><img src="images/Superstore.png" width="600" height="300"/></center>
 
 ---
 
